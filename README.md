@@ -4,18 +4,11 @@ This repository sets up a lightweight macOS "Tray" system for quick temporary st
 
 ## 📆 Installation
 
-1. **Clone the repository**
+1. **Installation**
 
 ```bash
 git clone https://github.com/honeymath/tray
 cd tray
-```
-
-2. **Run the installer**
-
-```bash
-mv installer.py your_favorate_dir_for_tray
-cd your_favorate_dir_for_tray
 python3 installer.py
 ```
 
